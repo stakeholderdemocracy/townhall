@@ -1,0 +1,23 @@
+<?php
+return array (
+  'Auth Mode' => '',
+  'Created at' => 'Létrehozva',
+  'Created by' => 'Létrehozta ',
+  'Default Space' => 'Alapértelmezett témakör',
+  'Description' => 'Leírás',
+  'Email' => '',
+  'Language' => 'Nyelv',
+  'Last Login' => 'Utolsó belépés',
+  'Manager' => '',
+  'Name' => 'Név',
+  'Show At Directory' => '',
+  'Show At Registration' => '',
+  'Sort order' => '',
+  'Space ID' => '',
+  'Status' => 'Státusz',
+  'Tags' => 'Címkék',
+  'Updated at' => 'Frissítve',
+  'Updated by' => 'Frissítette ',
+  'Username' => 'Felhasználói név',
+  'Visibility' => 'Láthatóság',
+);

@@ -1,0 +1,27 @@
+<?php
+
+return [
+    '<strong>Mail</strong> module configuration' => '',
+    'Allow users to start new conversations' => '',
+    'Conversation' => '',
+    'Edit message...' => '',
+    'Receive Notifications when someone opens a new conversation.' => '',
+    'Receive Notifications when someone sends you a message.' => '',
+    'Show menu item in top Navigation' => '',
+    'Start new conversations' => '',
+    'This user is already participating in this conversation.' => '',
+    'Write a message...' => '',
+    'You are not allowed to start a conversation with this user.' => '',
+    'Allow others to send you private messages' => 'Cho phép người khác gửi bạn thư riêng',
+    'Created At' => 'Tạo lúc',
+    'Created By' => 'Tạo bởi',
+    'Is Originator' => 'Là người khởi phát',
+    'Last Viewed' => 'Xem lần cuối',
+    'Message' => 'Tin nhắn',
+    'Messages' => 'Tin nhắn',
+    'Receive private messages' => 'Nhận tin nhắn riêng tư ',
+    'Title' => 'Tiêu đề',
+    'Updated At' => 'Cập nhật lúc',
+    'Updated By' => 'Cập nhật bởi',
+    'User' => 'User',
+];

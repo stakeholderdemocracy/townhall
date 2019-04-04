@@ -1,0 +1,23 @@
+<?php
+return array (
+  '<strong>E-Mail</strong> Summaries' => '<strong>メール</strong>の要約',
+  'Activities' => '活動',
+  'Daily' => '毎日',
+  'E-Mail Summaries' => 'メールの概要',
+  'E-Mail summaries are sent to inform you about recent activities in the network.' => 'メールの要約があなたにネットワーク内の最近の活動についてお知らせするために送られます',
+  'E-Mail summaries are sent to users to inform them about recent activities in your network.' => 'メールの要約がユーザーにネットワーク内の最近の活動についてお知らせするために送られます',
+  'Exclude spaces below from the mail summary' => '以下のスペースをメールの要約から除外',
+  'Hourly' => '毎時',
+  'Interval' => '間隔',
+  'Latest news' => '最新ニュース',
+  'Never' => '無し',
+  'On this page you can configure the contents and the interval of these e-mail updates.' => 'このページでは更新情報をメールで送るコンテンツとその間隔を設定できます。',
+  'On this page you can define the default behavior for your users. These settings can be overwritten by users in their account settings page.' => 'このページでは、ユーザーのデフォルトの動作を定義できます。 これらの設定は、アカウント設定ページでユーザーが上書きすることができます。',
+  'Only include spaces below to the mail summary' => '以下のスペースのみメールの要約に含める',
+  'Reset to defaults' => 'デフォルトに戻す',
+  'Spaces' => 'スペース',
+  'Weekly' => '毎週',
+  'You will only receive an e-mail if there is something new.' => '更新情報がある場合のみメールを受け取ります。',
+  'Your daily summary' => '本日の要約',
+  'Your weekly summary' => '今週の要約',
+);

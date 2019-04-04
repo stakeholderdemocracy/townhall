@@ -1,0 +1,23 @@
+<?php
+return array (
+  'Auth Mode' => 'Authentifizierungs-Verfahren',
+  'Created at' => 'Erstellt am',
+  'Created by' => 'Erstellt durch',
+  'Default Space' => 'Standard-Space',
+  'Description' => 'Beschreibung',
+  'Email' => 'E-Mail Adresse',
+  'Language' => 'Sprache',
+  'Last Login' => 'Letzter Login',
+  'Manager' => 'Manager',
+  'Name' => 'Name',
+  'Show At Directory' => 'Im Verzeichnis anzeigen',
+  'Show At Registration' => 'Bei Registrierung anzeigen',
+  'Sort order' => 'Sortierung',
+  'Space ID' => 'Space Id',
+  'Status' => 'Status',
+  'Tags' => 'Tags',
+  'Updated at' => 'Zuletzt geändert am',
+  'Updated by' => 'Zuletzt geändert durch',
+  'Username' => 'Benutzername',
+  'Visibility' => 'Sichtbarkeit',
+);

@@ -1,0 +1,27 @@
+<?php
+
+return [
+    '<strong>Mail</strong> module configuration' => '',
+    'Allow users to start new conversations' => '',
+    'Conversation' => '',
+    'Edit message...' => '',
+    'Receive Notifications when someone opens a new conversation.' => '',
+    'Receive Notifications when someone sends you a message.' => '',
+    'Show menu item in top Navigation' => '',
+    'Start new conversations' => '',
+    'This user is already participating in this conversation.' => '',
+    'Write a message...' => '',
+    'You are not allowed to start a conversation with this user.' => '',
+    'Allow others to send you private messages' => 'Dopustite drugima da vam šalju privatne poruke',
+    'Created At' => 'Kreirano u',
+    'Created By' => 'Kreirano od',
+    'Is Originator' => 'Je pokretač',
+    'Last Viewed' => 'Zadnje pogledano',
+    'Message' => 'Poruka',
+    'Messages' => 'Poruke',
+    'Receive private messages' => 'Primi privatne poruke',
+    'Title' => 'Naziv',
+    'Updated At' => 'Ažurirano u',
+    'Updated By' => 'Ažurirano od',
+    'User' => 'Korisnik',
+];

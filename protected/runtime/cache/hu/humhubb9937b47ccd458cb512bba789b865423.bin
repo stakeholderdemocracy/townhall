@@ -1,0 +1,23 @@
+a:2:{i:0;s:1396:"
+<a href="/stake/index.php?r=activity%2Flink&id=37">
+    <li class="activity-entry" data-stream-entry data-action-component="activity.ActivityStreamEntry" data-content-key="48">
+        <div class="media">
+                            <!-- Show user image -->
+                <img class="media-object img-rounded pull-left" data-src="holder.js/32x32" alt="32x32"
+                     style="width: 32px; height: 32px;"
+                     src="/stake/static/img/default_user.jpg">
+            
+            <!-- Show space image, if you are outside from a space -->
+                                                <div class="img-space pull-left space-profile-acronym-4 space-acronym" style=" background-color: #e00673; width: 20px; height: 20px; font-size: 8.8px; padding: 3.6px 0; border-radius: 2px;">S</div><img class="img-space pull-left space-profile-image-4 img-rounded profile-user-photo hidden" src="/stake/static/img/default_space.jpg" alt="Smog" style=" width: 20px; height: 20px">                
+            
+            <div class="media-body text-break">
+
+                <!-- Show content -->
+                <strong>Harry Prevor</strong> joined the space <strong>Smog</strong>                <br>
+
+                <!-- show time -->
+                <span class="time" title="2019-02-28T03:54:48+00:00">Feb 28, 2019 - 3:54 AM</span>            </div>
+        </div>
+    </li>
+</a>
+";i:1;N;}

@@ -1,0 +1,20 @@
+<?php
+return array (
+  'Back to stream' => 'Voltar ao mural',
+  'Created by me' => 'Criado por mim',
+  'Creation time' => 'Hora de criação',
+  'Filter' => 'Filtro',
+  'Include archived content' => 'Incluir conteúdo arquivado',
+  'Last update' => 'Última atualização',
+  'Load more' => 'Carregar mais',
+  'No matches with your selected filters!' => 'Nada foi encontrado com os filtros utilizados!',
+  'Nothing here yet!' => 'Nada aqui ainda!',
+  'Only private content' => 'Apenas conteúdo privado',
+  'Only public content' => 'Apenas conteúdo público',
+  'The content has been archived.' => 'O conteúdo foi arquivado.',
+  'The content has been deleted.' => 'O conteúdo foi apagado.',
+  'The content has been unarchived.' => 'O conteúdo foi desarquivado.',
+  'Where I´m involved' => 'Onde estou envolvido',
+  'With file attachments' => 'Com anexos de arquivos',
+  'Your last edit state has been saved!' => 'Seu último estado de alteração foi salvo!',
+);

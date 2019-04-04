@@ -1,0 +1,21 @@
+<?php
+return array (
+  '<strong>Move</strong> content' => '<strong>移動</strong> する',
+  'Content' => 'コンテンツ',
+  'Content Tag with invalid contentcontainer_id assigned.' => '',
+  'Content has been moved to {spacename}' => '',
+  'Invalid space selection.' => '',
+  'Move content' => '移動する',
+  'Target Space' => '移動先のスペース',
+  'The author of this content is not allowed to create private content within the selected space.' => '',
+  'The author of this content is not allowed to create public content within the selected space.' => '',
+  'The content can\'t be moved to its current space.' => '',
+  'The module {moduleName} is not enabled on the selected target space.' => '',
+  'This content type can\'t be moved due to a missing module-id setting.' => '',
+  'This content type can\'t be moved.' => '',
+  'This space is not visible!' => '',
+  'Topics' => 'トピックス（タグ付け）',
+  'Updated' => '更新完了',
+  'You do not have the permission to move this content to the given space.' => '',
+  'You do not have the permission to move this content.' => '',
+);

@@ -1,0 +1,23 @@
+<?php
+return array (
+  '<strong>E-Mail</strong> Summaries' => '<strong>Correus</strong> com resúmens',
+  'Activities' => 'Actividatz',
+  'Daily' => 'Diarios',
+  'E-Mail Summaries' => 'Correus de resumen',
+  'E-Mail summaries are sent to inform you about recent activities in the network.' => 'Os correus de resumen se ninvían pa informar-te sobre as actividatz recients en iste ret.',
+  'E-Mail summaries are sent to users to inform them about recent activities in your network.' => 'Os correus de resumen se ninvían a os usuarios pa informar-les d\'as actividatz recients en o tuyo ret.',
+  'Exclude spaces below from the mail summary' => 'Excluye istos espacios d\'os correus de resumen.',
+  'Hourly' => 'Horarios',
+  'Interval' => 'Intervalos',
+  'Latest news' => 'Zagueras noticias',
+  'Never' => 'Nunca',
+  'On this page you can configure the contents and the interval of these e-mail updates.' => 'En ista pachina puetz configurar os contenius y l\'intervalo d\'istas actualizacions de correu.',
+  'On this page you can define the default behavior for your users. These settings can be overwritten by users in their account settings page.' => 'En ista pachina puetz definir o comportamiento per defecto pa os tuyos usuarios. Istos achustes pueden estar cambiaus per os usuarios en os suyos achustes.',
+  'Only include spaces below to the mail summary' => 'Nomás incluyir istos espacios en os correus de resumen',
+  'Reset to defaults' => 'Restaurar per defecto',
+  'Spaces' => 'Espacios',
+  'Weekly' => 'Semanalment',
+  'You will only receive an e-mail if there is something new.' => 'Nomás recibirás un correu si i hai bella cosa nueva',
+  'Your daily summary' => 'Resumen diario',
+  'Your weekly summary' => 'Resumen semanal',
+);

@@ -1,0 +1,23 @@
+a:2:{i:0;s:1432:"
+<a href="/stake/index.php?r=activity%2Flink&id=40">
+    <li class="activity-entry" data-stream-entry data-action-component="activity.ActivityStreamEntry" data-content-key="53">
+        <div class="media">
+                            <!-- Show user image -->
+                <img class="media-object img-rounded pull-left" data-src="holder.js/32x32" alt="32x32"
+                     style="width: 32px; height: 32px;"
+                     src="/stake/static/img/default_user.jpg">
+            
+            <!-- Show space image, if you are outside from a space -->
+                                                <div class="img-space pull-left space-profile-acronym-2 space-acronym" style=" background-color: #7c8c08; width: 20px; height: 20px; font-size: 8.8px; padding: 3.6px 0; border-radius: 2px;">Z</div><img class="img-space pull-left space-profile-image-2 img-rounded profile-user-photo hidden" src="/stake/static/img/default_space.jpg" alt="Zoning" style=" width: 20px; height: 20px">                
+            
+            <div class="media-body text-break">
+
+                <!-- Show content -->
+                <strong>Shadrack Lilian</strong> created a new post "We’re working on how to reorganize the zones.".                <br>
+
+                <!-- show time -->
+                <span class="time"><span title="Feb 28, 2019 - 4:19 AM">Feb 28, 2019</span></span>            </div>
+        </div>
+    </li>
+</a>
+";i:1;N;}

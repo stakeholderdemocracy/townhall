@@ -1,0 +1,24 @@
+a:2:{i:0;s:1444:"
+<a href="/stake/index.php?r=activity%2Flink&id=45">
+    <li class="activity-entry" data-stream-entry data-action-component="activity.ActivityStreamEntry" data-content-key="61">
+        <div class="media">
+                            <!-- Show user image -->
+                <img class="media-object img-rounded pull-left" data-src="holder.js/32x32" alt="32x32"
+                     style="width: 32px; height: 32px;"
+                     src="/stake/static/img/default_user.jpg">
+            
+            <!-- Show space image, if you are outside from a space -->
+                                                <div class="img-space pull-left space-profile-acronym-1 space-acronym" style=" background-color: #6fdbe8; width: 20px; height: 20px; font-size: 8.8px; padding: 3.6px 0; border-radius: 2px;">P</div><img class="img-space pull-left space-profile-image-1 img-rounded profile-user-photo hidden" src="/stake/static/img/default_space.jpg" alt="Potholes" style=" width: 20px; height: 20px">                
+            
+            <div class="media-body text-break">
+
+                <!-- Show content -->
+                <strong>Harry Prevor</strong> created a new post "Closed Case Closed Case Noted Closed due to time lapse 
+...".                <br>
+
+                <!-- show time -->
+                <span class="time"><span title="Mar 31, 2019 - 12:50 AM">Mar 31, 2019</span></span>            </div>
+        </div>
+    </li>
+</a>
+";i:1;N;}

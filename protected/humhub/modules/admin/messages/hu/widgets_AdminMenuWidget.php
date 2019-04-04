@@ -1,0 +1,20 @@
+<?php
+return array (
+  '<strong>Administration</strong> menu' => '<strong>Adminisztrációs</strong> menü',
+  'Advanced' => 'Haladó',
+  'Appearance' => 'Megjelenés',
+  'Caching' => 'Caching',
+  'E-Mail summaries' => 'Email összesítések',
+  'Files' => 'Fájlok',
+  'General' => 'Általános',
+  'Information' => 'Információ',
+  'Logs' => 'Logok',
+  'Modules' => 'Modulok',
+  'Notifications' => 'Értesítések',
+  'OEmbed' => 'OEmbed',
+  'Proxy' => 'Proxy',
+  'Settings' => 'Beállítások',
+  'Spaces' => 'Közösségek',
+  'Statistics' => 'Statisztika',
+  'Users' => 'Felhasználók',
+);

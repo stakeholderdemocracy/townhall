@@ -1,0 +1,20 @@
+<?php
+return array (
+  '<strong>Administration</strong> menu' => '<strong>Administracijski</strong> izbornik',
+  'Advanced' => 'Napredno',
+  'Appearance' => 'Izgled',
+  'Caching' => 'Caching',
+  'E-Mail summaries' => 'E-mail sažeci',
+  'Files' => 'Datoteke',
+  'General' => 'Općenito',
+  'Information' => 'Informacija',
+  'Logs' => 'Logovi',
+  'Modules' => 'Moduli',
+  'Notifications' => 'Obavijesti',
+  'OEmbed' => 'OEmbed',
+  'Proxy' => 'Proxy',
+  'Settings' => 'Postavke',
+  'Spaces' => 'Prostori',
+  'Statistics' => 'Statistika',
+  'Users' => 'Korisnici',
+);

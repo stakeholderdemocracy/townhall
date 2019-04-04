@@ -1,0 +1,20 @@
+<?php
+return array (
+  'Back to stream' => 'ストリームに戻る',
+  'Created by me' => '',
+  'Creation time' => '作成時間',
+  'Filter' => 'フィルター',
+  'Include archived content' => '',
+  'Last update' => '最後のアップデート',
+  'Load more' => 'さらに読み込む',
+  'No matches with your selected filters!' => '',
+  'Nothing here yet!' => '',
+  'Only private content' => '',
+  'Only public content' => '',
+  'The content has been archived.' => '',
+  'The content has been deleted.' => '削除しました。',
+  'The content has been unarchived.' => '',
+  'Where I´m involved' => '',
+  'With file attachments' => '',
+  'Your last edit state has been saved!' => '',
+);

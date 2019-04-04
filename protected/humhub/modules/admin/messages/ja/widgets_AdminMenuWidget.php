@@ -1,0 +1,20 @@
+<?php
+return array (
+  '<strong>Administration</strong> menu' => '<strong>Administration</strong> 管理メニュー',
+  'Advanced' => '高度',
+  'Appearance' => '外観',
+  'Caching' => 'キャッシュ',
+  'E-Mail summaries' => 'Eメール要約',
+  'Files' => 'ファイル',
+  'General' => '一般',
+  'Information' => 'インフォメーション',
+  'Logs' => 'ログ',
+  'Modules' => 'モジュール',
+  'Notifications' => '通知',
+  'OEmbed' => '',
+  'Proxy' => 'プロキシ',
+  'Settings' => '設定',
+  'Spaces' => 'スペース',
+  'Statistics' => '統計',
+  'Users' => 'ユーザー',
+);
