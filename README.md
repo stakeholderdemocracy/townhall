@@ -1,2 +1,0 @@
-# townhall
-The TownHall Project
