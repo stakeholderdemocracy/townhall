@@ -9538,3 +9538,150 @@ $_SERVER = [
     'REQUEST_TIME_FLOAT' => 1554391239.913
     'REQUEST_TIME' => 1554391239
 ]
+2019-04-04 11:30:44 [69.242.79.245][1][-][warning][yii\caching\FileCache::setValue] Unable to write cache file '/var/www/html/stake/protected/runtime/cache/hu/humhube61dfef2e97a6cc1474d25806cb7d12a.bin': file_put_contents(/var/www/html/stake/protected/runtime/cache/hu/humhube61dfef2e97a6cc1474d25806cb7d12a.bin): failed to open stream: Permission denied
+    in /var/www/html/stake/protected/humhub/modules/admin/models/UserApprovalSearch.php:123
+    in /var/www/html/stake/protected/humhub/modules/admin/models/UserApprovalSearch.php:85
+    in /var/www/html/stake/protected/humhub/modules/admin/widgets/DashboardApproval.php:20
+2019-04-04 11:30:44 [69.242.79.245][1][-][warning][yii\caching\FileCache::setValue] Unable to write cache file '/var/www/html/stake/protected/runtime/cache/hu/humhubb11db33871d02a333a8ae55d7cfe1381.bin': file_put_contents(/var/www/html/stake/protected/runtime/cache/hu/humhubb11db33871d02a333a8ae55d7cfe1381.bin): failed to open stream: Permission denied
+    in /var/www/html/stake/protected/humhub/modules/user/models/User.php:193
+    in /var/www/html/stake/protected/humhub/components/UrlManager.php:30
+    in /var/www/html/stake/protected/humhub/modules/content/components/ContentContainerActiveRecord.php:107
+2019-04-04 11:30:44 [69.242.79.245][1][-][info][application] $_GET = [
+    'r' => 'dashboard/dashboard'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => '35.196.71.55'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'pm_panel-activities=expanded; _identity=407fe3ae26241524614295fe670bd21c9808a1db0471332e46fc1646894a514ca%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A50%3A%22%5B1%2C%224c23ec1a-d5f8-40b8-b2fe-791e696ca15a%22%2C2592000%5D%22%3B%7D; PHPSESSID=a3otej18ei5ajj1juma45iablo; _csrf=6c0967ae0f20057907b6fbbed7e6ab59045fffcfdc07056610123ef1e13ac3daa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%220_wRfEBg8l3ERdRIKfOh_8Doz7WEpV-H%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.25 (Debian) Server at 35.196.71.55 Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.25 (Debian)'
+    'SERVER_NAME' => '35.196.71.55'
+    'SERVER_ADDR' => '10.142.0.2'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '69.242.79.245'
+    'DOCUMENT_ROOT' => '/var/www/html'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/var/www/html'
+    'SERVER_ADMIN' => 'webmaster@localhost'
+    'SCRIPT_FILENAME' => '/var/www/html/stake/index.php'
+    'REMOTE_PORT' => '34912'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=dashboard%2Fdashboard'
+    'REQUEST_URI' => '/stake/index.php?r=dashboard%2Fdashboard'
+    'SCRIPT_NAME' => '/stake/index.php'
+    'PHP_SELF' => '/stake/index.php'
+    'REQUEST_TIME_FLOAT' => 1554391844.313
+    'REQUEST_TIME' => 1554391844
+]
+2019-04-04 11:30:50 [69.242.79.245][1][-][warning][yii\caching\FileCache::setValue] Unable to write cache file '/var/www/html/stake/protected/runtime/cache/hu/humhubb11db33871d02a333a8ae55d7cfe1381.bin': file_put_contents(/var/www/html/stake/protected/runtime/cache/hu/humhubb11db33871d02a333a8ae55d7cfe1381.bin): failed to open stream: Permission denied
+    in /var/www/html/stake/protected/humhub/modules/stream/models/StreamSuppressQuery.php:107
+    in /var/www/html/stake/protected/humhub/modules/stream/actions/Stream.php:223
+2019-04-04 11:30:50 [69.242.79.245][1][-][info][application] $_GET = [
+    'r' => 'dashboard/dashboard/activity-stream'
+    'StreamQuery' => [
+        'from' => '0'
+        'limit' => '10'
+    ]
+]
+
+$_SERVER = [
+    'HTTP_HOST' => '35.196.71.55'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://35.196.71.55/stake/index.php?r=dashboard%2Fdashboard'
+    'HTTP_X_CSRF_TOKEN' => 'wJv556tof8qJsZ8MHkIe1N96xlcs8rJM8xZoskkRIPPwxI61zS09rbHdrElMJkydlByJP3PK9iOJIT_3OUcNuw=='
+    'HTTP_X_REQUESTED_WITH' => 'XMLHttpRequest'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'pm_panel-activities=expanded; _identity=407fe3ae26241524614295fe670bd21c9808a1db0471332e46fc1646894a514ca%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A50%3A%22%5B1%2C%224c23ec1a-d5f8-40b8-b2fe-791e696ca15a%22%2C2592000%5D%22%3B%7D; PHPSESSID=a3otej18ei5ajj1juma45iablo; _csrf=6c0967ae0f20057907b6fbbed7e6ab59045fffcfdc07056610123ef1e13ac3daa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%220_wRfEBg8l3ERdRIKfOh_8Doz7WEpV-H%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.25 (Debian) Server at 35.196.71.55 Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.25 (Debian)'
+    'SERVER_NAME' => '35.196.71.55'
+    'SERVER_ADDR' => '10.142.0.2'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '69.242.79.245'
+    'DOCUMENT_ROOT' => '/var/www/html'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/var/www/html'
+    'SERVER_ADMIN' => 'webmaster@localhost'
+    'SCRIPT_FILENAME' => '/var/www/html/stake/index.php'
+    'REMOTE_PORT' => '34912'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=dashboard%2Fdashboard%2Factivity-stream&StreamQuery%5Bfrom%5D=0&StreamQuery%5Blimit%5D=10'
+    'REQUEST_URI' => '/stake/index.php?r=dashboard%2Fdashboard%2Factivity-stream&StreamQuery%5Bfrom%5D=0&StreamQuery%5Blimit%5D=10'
+    'SCRIPT_NAME' => '/stake/index.php'
+    'PHP_SELF' => '/stake/index.php'
+    'REQUEST_TIME_FLOAT' => 1554391850.319
+    'REQUEST_TIME' => 1554391850
+]
+2019-04-04 11:30:50 [69.242.79.245][1][-][warning][yii\caching\FileCache::setValue] Unable to write cache file '/var/www/html/stake/protected/runtime/cache/hu/humhubb11db33871d02a333a8ae55d7cfe1381.bin': file_put_contents(/var/www/html/stake/protected/runtime/cache/hu/humhubb11db33871d02a333a8ae55d7cfe1381.bin): failed to open stream: Permission denied
+    in /var/www/html/stake/protected/humhub/modules/stream/models/StreamSuppressQuery.php:107
+    in /var/www/html/stake/protected/humhub/modules/stream/actions/Stream.php:223
+2019-04-04 11:30:50 [69.242.79.245][1][-][warning][yii\caching\FileCache::setValue] Unable to write cache file '/var/www/html/stake/protected/runtime/cache/hu/humhube61dfef2e97a6cc1474d25806cb7d12a.bin': file_put_contents(/var/www/html/stake/protected/runtime/cache/hu/humhube61dfef2e97a6cc1474d25806cb7d12a.bin): failed to open stream: Permission denied
+    in /var/www/html/stake/protected/humhub/modules/user/models/User.php:193
+    in /var/www/html/stake/protected/humhub/modules/user/components/PermissionManager.php:115
+    in /var/www/html/stake/protected/humhub/modules/user/components/PermissionManager.php:75
+2019-04-04 11:30:50 [69.242.79.245][1][-][info][application] $_GET = [
+    'r' => 'dashboard/dashboard/stream'
+    'StreamQuery' => [
+        'from' => '0'
+        'limit' => '8'
+    ]
+]
+
+$_SERVER = [
+    'HTTP_HOST' => '35.196.71.55'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://35.196.71.55/stake/index.php?r=dashboard%2Fdashboard'
+    'HTTP_X_CSRF_TOKEN' => 'wJv556tof8qJsZ8MHkIe1N96xlcs8rJM8xZoskkRIPPwxI61zS09rbHdrElMJkydlByJP3PK9iOJIT_3OUcNuw=='
+    'HTTP_X_REQUESTED_WITH' => 'XMLHttpRequest'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'pm_panel-activities=expanded; _identity=407fe3ae26241524614295fe670bd21c9808a1db0471332e46fc1646894a514ca%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A50%3A%22%5B1%2C%224c23ec1a-d5f8-40b8-b2fe-791e696ca15a%22%2C2592000%5D%22%3B%7D; PHPSESSID=a3otej18ei5ajj1juma45iablo; _csrf=6c0967ae0f20057907b6fbbed7e6ab59045fffcfdc07056610123ef1e13ac3daa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%220_wRfEBg8l3ERdRIKfOh_8Doz7WEpV-H%22%3B%7D'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.25 (Debian) Server at 35.196.71.55 Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.25 (Debian)'
+    'SERVER_NAME' => '35.196.71.55'
+    'SERVER_ADDR' => '10.142.0.2'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '69.242.79.245'
+    'DOCUMENT_ROOT' => '/var/www/html'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/var/www/html'
+    'SERVER_ADMIN' => 'webmaster@localhost'
+    'SCRIPT_FILENAME' => '/var/www/html/stake/index.php'
+    'REMOTE_PORT' => '34916'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=dashboard%2Fdashboard%2Fstream&StreamQuery%5Bfrom%5D=0&StreamQuery%5Blimit%5D=8'
+    'REQUEST_URI' => '/stake/index.php?r=dashboard%2Fdashboard%2Fstream&StreamQuery%5Bfrom%5D=0&StreamQuery%5Blimit%5D=8'
+    'SCRIPT_NAME' => '/stake/index.php'
+    'PHP_SELF' => '/stake/index.php'
+    'REQUEST_TIME_FLOAT' => 1554391850.29
+    'REQUEST_TIME' => 1554391850
+]
