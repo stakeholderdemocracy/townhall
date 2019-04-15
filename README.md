@@ -1,4 +1,4 @@
-townhall -- the Stakeholder Democracy
+Townhall: the Stakeholder Democracy
 ===========================
 
 **ESE Senior Design Team 17**
@@ -14,6 +14,30 @@ CREATE DATABASE `townhall`;
 GRANT ALL ON `townhall`.* TO `townhall_dbuser`@localhost IDENTIFIED BY '<PASSWORD>';
 FLUSH PRIVILEGES;
 ```
+
+## Alternative option
+Townhall is also available as docker image. The platform is built inside an Ubuntu 14.04 docker image with a fully functional LAMP stack. The setup is easy and it involves running the following commands. 
+**Note**  
+Please make sure that you have docker installed on your machine.  
+
+1. **Pull the docker image**  
+```
+docker pull slilan96/townhall-lamp-stack
+```
+2. **Launch the docker image from your terminal **
+```
+docker run -p <HOST_PORT>:80 -t -i slilan96/townhall-lamp-stack /bin/bash
+```
+
+3. **Restart the apache server and mysql**
+```
+sudo service mysql restart
+sudo service apache2 restart
+```
+
+**And you are good to go!**
+
+
 
 ## License
 
